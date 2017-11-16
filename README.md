@@ -9,13 +9,17 @@ This system was designed to be run on a Raspberry Pi using two accelerometers an
 ### Hardware
 
 Raspberry Pi 2 (but should work on any model with sufficient GPIO)
+
 2x ADXL345 compatible accelerometer
+
 2x generic 4x4 matrix keypad from Adafruit
+
 RPi-compatible WiFi dongle
 
 ### Additional Requirements
 
 Twilio SMS account (does cost a very small amount of money per text sent)
+
 adxl345-python library (https://github.com/pimoroni/adxl345-python)
 
 ### Implementation
